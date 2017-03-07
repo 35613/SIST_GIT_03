@@ -63,10 +63,10 @@ userBean = (UserBean)session.getAttribute("userBean");
 
        <%--날짜--%>
 				<div class="form-group">
-					<span class="glyphicon glyphicon-calendar" aria-hidden="true" ></span> <label
+					<span class="glyphicon glyphicon-ok" aria-hidden="true" ></span> <label
 						for="exampleInputdate">날짜</label>
 					<div class="panel-body" style="text-align: right;">
-						<input type="date" min="2017-02-18" max="2025-01-31" name="dodate" value="<%=year%>-<%=month %>-<%=day %>"><br>
+						<input type="date" min="2017-02-21" max="2025-01-31" name="dodate" value="<%=year%>-<%=month %>-<%=day %>"><br>
 					</div>
 				</div>
        

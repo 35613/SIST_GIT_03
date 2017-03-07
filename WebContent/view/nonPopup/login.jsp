@@ -35,17 +35,16 @@
 
 			<%--왼쪽부분--%>
 			<div class="col-md-9" role="main">
-				<img alt="" src="/view/image/main.jpg" width="100%" height="645px";>
-			<!-- style="background-image:url(/view/image/main1.jpg);height:350px;width:100%;" -->
-			<!-- 	<div class="bs-docs-section">
+			
+				<div class="bs-docs-section">
 
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<h1>GROUPPL 그룹 간 프로젝트와 일정을 관리하는 프로그램입니다.</h1>
 						</div>
 					</div>
-				</div> -->
-				
+				</div>
+				<img alt="/view/image/귀찮다.jpg" src="/view/image/귀찮다.jpg"><h1>개 귀찮다...</h1>
 			</div>
 
 			<%--오른쪽 부분--%>

@@ -113,7 +113,16 @@
 				</div>
 			</form>
 		</div>
-		
+
+		<%-- <form action="/controller/Board_Detail_Controller.jsp" method="post">
+			<input type="hidden" name="boardseq" value="<%=boardBean.getPost_seq()%>"> 
+			<input type="hidden" name="command" value="삭제">
+			<div style="text-align: right;">
+				<input type="submit" class="btn btn-default btn-xs"
+					style="margin-bottom: 3px; margin-top: 3px" value="삭제">
+			</div>
+		</form> --%>
+
 	</div>
 <script type="text/javascript">
 	$("#down").show()

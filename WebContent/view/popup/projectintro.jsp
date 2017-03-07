@@ -46,7 +46,7 @@
 
         <div class="panel-body">
             <div>
-                <span class="glyphicon glyphicon-flag" aria-hidden="true" ></span>
+                <span class="glyphicon glyphicon-ok" aria-hidden="true" ></span>
                 <a class="panel-title" style="margin-left: 10px; margin-bottom: 5px">Projectimage</a>
             </div>
             <div class="panel panel-default" style="margin-left: 40px; margin-bottom: 30px">
@@ -86,7 +86,7 @@
             </div>
 
             <div>
-                <span class="glyphicon glyphicon-calendar" aria-hidden="true" ></span>
+                <span class="glyphicon glyphicon-ok" aria-hidden="true" ></span>
                 <a class="panel-title" style="margin-left: 10px; margin-bottom: 5px">Startdate</a>
             </div>
 
@@ -97,7 +97,7 @@
             </div>
 
             <div>
-                <span class="glyphicon glyphicon-calendar" aria-hidden="true" ></span>
+                <span class="glyphicon glyphicon-ok" aria-hidden="true" ></span>
                 <a class="panel-title" style="margin-left: 10px; margin-bottom: 5px">Enddate</a>
             </div>
             <div class="panel panel-default" style="margin-left: 40px; margin-bottom: 30px">
